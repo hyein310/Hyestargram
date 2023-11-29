@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652460585314",
+    "project_id": "hyestargram2023",
+    "storage_bucket": "hyestargram2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652460585314:android:3cd57173eb017c24b83c3b",
+        "android_client_info": {
+          "package_name": "com.example.hyestargram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7bwhwxMQwwv4e1mhfHdiFDsZyHLsggc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
